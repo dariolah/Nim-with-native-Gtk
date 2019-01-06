@@ -1,0 +1,5 @@
+<gresources>
+    <gresource prefix="/">
+        <file compressed="false">gui.glade</file>
+    </gresource>
+</gresources>
